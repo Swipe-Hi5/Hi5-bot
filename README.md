@@ -8,5 +8,5 @@ A software that automates various tasks in hi5.com.
 - Automates group joins
 
 ## Development Team
-Join the development team on Telegram at [Naiyan](https://t.me/naiyanarrahman) for updates and contributions.
+Join the development team on [Telegram](https://t.me/naiyanarrahman) for updates and contributions.
 
